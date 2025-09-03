@@ -4,13 +4,15 @@
 [![Github Badge](https://img.shields.io/badge/-ClaraMany-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yourgithub/)](https://github.com/ClaraMy)
 [![Website Badge](https://img.shields.io/badge/Website-Portfolio2024-green)](https://claramany.notion.site/)
 
-Welcome to my GitHub profile! I'm a passionate developer with a love for creating elegant solutions to complex problems. Let's build something amazing together!
+Welcome to my GitHub profile!
+
 
 ## About Me
 
 - 💻 I specialize in **UX Design**.
 - 🎓 I am currently in my second year, prepraring a Master's degree CMW (Cultures et Métiers du Web) at Gustave Eiffel University.
 - 📝 I regularly write about my learning journey and projects on Notion.
+
 
 ## 🛠️ Technologies & Tools
 
