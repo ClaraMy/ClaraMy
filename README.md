@@ -1,7 +1,7 @@
 # Hi! I'm Clara Many 🌷
 
-[![Linkedin Badge](https://img.shields.io/badge/-YanisWONG-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/clara-many/)
-[![Github Badge](https://img.shields.io/badge/-YanisWG-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yourgithub/)](https://github.com/ClaraMy)
+[![Linkedin Badge](https://img.shields.io/badge/-ClaraMany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/clara-many/)
+[![Github Badge](https://img.shields.io/badge/-ClaraMany-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yourgithub/)](https://github.com/ClaraMy)
 [![Website Badge](https://img.shields.io/badge/Website-Portfolio2024-green)](https://claramany.notion.site/)
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating elegant solutions to complex problems. Let's build something amazing together!
