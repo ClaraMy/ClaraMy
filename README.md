@@ -2,14 +2,14 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ClaraMany-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/clara-many/)
 [![Github Badge](https://img.shields.io/badge/-ClaraMany-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/yourgithub/)](https://github.com/ClaraMy)
-[![Website Badge](https://img.shields.io/badge/Website-Portfolio2024-green)](https://claramany.notion.site/)
+[![Website Badge](https://img.shields.io/badge/Website-Portfolio2026-green)](https://claramany.notion.site/)
 
 Welcome to my GitHub profile!
 
 
 ## About Me
 
-- 💻 I specialize in **UX Design**.
+- 💻 I specialize in **UX/UI Design**.
 - 🎓 I am currently in my second year, prepraring a Master's degree CMW (Cultures et Métiers du Web) at Gustave Eiffel University.
 - 📝 I regularly write about my learning journey and projects on Notion.
 
